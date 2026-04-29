@@ -28,7 +28,7 @@ Part II turns AAS into an operational state-classification framework.
 
 Part III defines the limits of structural redescription.
 
-Part IV applies the framework to a bounded archive.
+Part IV / Extension applies the framework to a bounded archive.
 
 ---
 
@@ -90,7 +90,7 @@ Part II operationalizes AAS as a classifiable interaction state.
 
 Part III defines reconstruction limits for record-deficient cases.
 
-Part IV applies the framework to a bounded longitudinal archive.
+Part IV / Extension applies the framework to a bounded longitudinal archive.
 
 ---
 

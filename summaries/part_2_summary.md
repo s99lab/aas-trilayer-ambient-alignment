@@ -28,7 +28,7 @@ Part II defines how AAS can be classified without relying on hidden internal sta
 
 Part III limits how such structures can be redescribed when records are incomplete.
 
-Part IV applies the logic to a bounded archive.
+Part IV / Extension applies the logic to a bounded archive.
 
 ---
 
@@ -90,7 +90,7 @@ Part II operationalizes the framework.
 
 Part III defines limits for structural redescription when original records are incomplete.
 
-Part IV applies these constraints to a bounded archive.
+Part IV / Extension applies these constraints to a bounded archive.
 
 ---
 

@@ -26,7 +26,7 @@ Part II operationalizes AAS as a classifiable interaction state.
 
 Part III prevents the framework from overreaching when evidence is incomplete.
 
-Part IV builds on this by reconstructing a longitudinal case from a bounded archive.
+Part IV / Extension builds on this by reconstructing a longitudinal case from a bounded archive.
 
 ---
 
@@ -82,7 +82,7 @@ Part II operationalizes the framework.
 
 Part III defines the limits of reconstruction.
 
-Part IV applies these limits to bounded-archive process analysis.
+Part IV / Extension applies these limits to bounded-archive process analysis.
 
 ---
 

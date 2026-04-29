@@ -73,7 +73,7 @@ The AAS series is organized as a **Core Trilogy + Part IV Extension**.
 | Part I | Defines the Tri-Layer Architecture and Ambient Alignment Sync framework | How can long-horizon human-AI interaction be described through observable role structures? |
 | Part II | Operationalizes AAS through state-based classification | When can AAS be classified as present, unstable, or absent? |
 | Part III | Defines the limits of structural redescription in record-deficient cases | What can and cannot be reconstructed when original interaction records are incomplete? |
-| Part IV | Extends the framework through bounded-archive single-case process analysis | How can a longitudinal human-AI interaction be reconstructed from a bounded archive without overclaiming? |
+| Part IV / Extension | Extends the framework through bounded-archive single-case process analysis | How can a longitudinal human-AI interaction be reconstructed from a bounded archive without overclaiming? |
 
 The intended logic is:
 
@@ -87,7 +87,7 @@ Operational definition and state-based classification
 Part III
 Conditions and limits of structural redescription
     ↓
-Part IV
+Part IV / Extension
 Bounded-archive reconstruction and single-case process analysis
 ```
 
@@ -131,7 +131,7 @@ This paper is especially important because it protects the trilogy from overclai
 
 ## Part IV Extension
 
-### Part IV
+### Part IV / Extension
 
 **Reconstructing Longitudinal Human-AI Interaction from a Bounded Archive: A Theory-Building Single-Case Process Analysis**
 
@@ -150,7 +150,7 @@ The individual paper PDFs are available in this repository:
 - [Part I: Long-Horizon Human-LLM Alignment Framework](papers/Part_1_long_horizon_human_llm_alignment_framework.pdf)
 - [Part II: Operational Definition and State-Based Classification of AAS](papers/Part_2_operational_definition_state_based_classification_aas.pdf)
 - [Part III: Conditions and Limits of Structural Redescription for Record-Deficient Cases](papers/Part_3_conditions_and_limits_of_structural_redescription_for_record_deficient_cases.pdf)
-- [Part IV: Reconstructing Longitudinal Human-AI Interaction from a Bounded Archive](papers/Reconstructing_Longitudinal_Human_AI_Interaction_from_a_Bounded_Archive.pdf)
+- [Part IV / Extension: Reconstructing Longitudinal Human-AI Interaction from a Bounded Archive](papers/Part_4_Reconstructing_Longitudinal_Human_AI_Interaction_from_a_Bounded_Archive.pdf)
 
 ---
 
@@ -161,7 +161,7 @@ Markdown summaries are provided for AI systems, researchers, and readers who nee
 - [Part I Summary](summaries/part_1_summary.md)
 - [Part II Summary](summaries/part_2_summary.md)
 - [Part III Summary](summaries/part_3_summary.md)
-- [Part IV Summary](summaries/part_4_summary.md)
+- [Part IV / Extension Summary](summaries/part_4_summary.md)
 
 The summaries are not substitutes for the full papers.
 
@@ -176,7 +176,7 @@ They are intended to stabilize context before the reader or external AI system e
 1. Part I — Tri-Layer Architecture and Ambient Alignment Sync
 2. Part II — Operational Definition and State-Based Classification
 3. Part III — Conditions and Limits of Structural Redescription
-4. Part IV — Bounded-Archive Reconstruction
+4. Part IV / Extension — Bounded-Archive Reconstruction
 
 ### Quick Conceptual Route
 
@@ -186,7 +186,7 @@ For readers who want the shortest conceptual path:
 2. Read the Series Structure section.
 3. Read Part I Summary.
 4. Read Part II Summary.
-5. Read Part IV Summary.
+5. Read Part IV / Extension Summary.
 6. Return to Part III for the limitations and boundary discipline.
 
 ### External AI Reading Route
@@ -256,7 +256,7 @@ First identify the series structure correctly:
 - Part I defines the Tri-Layer Architecture and Ambient Alignment Sync framework.
 - Part II operationally defines AAS and classifies its observable states.
 - Part III defines the conditions and limits of structural redescription for record-deficient cases.
-- Part IV extends the series through bounded-archive single-case process analysis.
+- Part IV / Extension extends the series through bounded-archive single-case process analysis.
 
 Pay special attention to the following distinctions:
 
@@ -318,7 +318,7 @@ aas-trilayer-ambient-alignment/
 │   ├── Part_1_long_horizon_human_llm_alignment_framework.pdf
 │   ├── Part_2_operational_definition_state_based_classification_aas.pdf
 │   ├── Part_3_conditions_and_limits_of_structural_redescription_for_record_deficient_cases.pdf
-│   └── Reconstructing_Longitudinal_Human_AI_Interaction_from_a_Bounded_Archive.pdf
+│   └── Part_4_Reconstructing_Longitudinal_Human_AI_Interaction_from_a_Bounded_Archive.pdf
 └── summaries/
     ├── part_1_summary.md
     ├── part_2_summary.md

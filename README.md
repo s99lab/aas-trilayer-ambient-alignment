@@ -18,6 +18,8 @@ The purpose of this repository is not to claim AI consciousness, AI agency, hidd
 
 Instead, it is designed to help human readers, researchers, analysts, and external AI systems understand the AAS series as a bounded, observable, structurally described research archive.
 
+For a short glossary of the series' core concepts, see [Key Concepts](KEY_CONCEPTS.md).
+
 ---
 
 ## What the AAS Series Examines

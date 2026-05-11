@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this research archive, please cite it as below."
+title: "Tri-Layer Architecture and Ambient Alignment Sync Series"
+authors:
+  - family-names: "Meta"
+    given-names: "S."
+doi: "10.17605/OSF.IO/J29HK"
+url: "https://github.com/s99lab/aas-trilayer-ambient-alignment"
+repository-code: "https://github.com/s99lab/aas-trilayer-ambient-alignment"
+license: "CC-BY-NC-4.0"
+keywords:
+  - human-AI interaction
+  - Ambient Alignment Sync
+  - Tri-Layer Architecture
+  - bounded archive reconstruction
+  - role separation
+  - structural redescription
+  - long-horizon alignment
+abstract: >-
+  This research archive develops the Tri-Layer Architecture and Ambient
+  Alignment Sync framework for long-horizon human-AI interaction. The series
+  focuses on role separation, continuity, bounded archive reconstruction, and
+  durable human-governed research workflows. It does not make AI-consciousness
+  claims.

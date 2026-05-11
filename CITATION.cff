@@ -10,15 +10,21 @@ repository-code: "https://github.com/s99lab/aas-trilayer-ambient-alignment"
 license: "CC-BY-NC-4.0"
 keywords:
   - human-AI interaction
+  - long-horizon human-AI work
   - Ambient Alignment Sync
   - Tri-Layer Architecture
-  - bounded archive reconstruction
+  - structural precision
   - role separation
-  - structural redescription
-  - long-horizon alignment
-abstract: >-
+  - relational context
+  - audit continuity
+  - structural drift
+  - bounded archive reconstruction
+abstract: >
   This research archive develops the Tri-Layer Architecture and Ambient
-  Alignment Sync framework for long-horizon human-AI interaction. The series
-  focuses on role separation, continuity, bounded archive reconstruction, and
-  durable human-governed research workflows. It does not make AI-consciousness
-  claims.
+  Alignment Sync framework for long-horizon human-AI work. The series
+  examines how structural precision, role separation, relational context,
+  and audit continuity can be preserved over time in extended human-AI
+  research workflows. It focuses on observable interaction structures,
+  bounded archive reconstruction, and the prevention of structural drift.
+  It does not make claims about AI consciousness, agency, personhood, or
+  hidden internal alignment.

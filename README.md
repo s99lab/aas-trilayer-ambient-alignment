@@ -10,11 +10,23 @@
 
 This repository provides an AI-readable index, PDF mirror, and structured entry point for the **Tri-Layer Architecture and Ambient Alignment Sync Series**.
 
-The series develops a descriptive and methodological framework for analyzing longitudinal human-AI interaction, role separation, co-adaptive reasoning structures, and archive-bounded reconstruction.
+The AAS Series develops a structural approach to long-horizon human-AI work. It focuses on how precision, role separation, relational context, and audit continuity can be preserved over time without making claims about AI consciousness, agency, or personhood.
+
+The series examines long-horizon human-AI interaction as a structural problem: how structure can drift, roles can blur, context can decay, and provisional reasoning can be mistaken for established fact across extended research, review, and decision workflows.
 
 The purpose of this repository is not to claim AI consciousness, AI agency, hidden internal alignment, or generalized psychological conclusions about human-AI interaction.
 
 Instead, it is designed to help human readers, researchers, analysts, and external AI systems understand the AAS series as a bounded, observable, structurally described research archive.
+
+---
+
+## What the AAS Series Examines
+
+The AAS Series examines how long-horizon human-AI work can preserve structural precision, role separation, relational context, and audit continuity over time.
+
+In extended research workflows, the main risk is not only factual error. Structure can drift. Roles can blur. Context can decay. Provisional reasoning can be mistaken for established fact. Review boundaries can weaken.
+
+AAS treats these risks as structural problems in human-AI collaboration. It does not make claims about AI consciousness, agency, or personhood. Instead, it focuses on how human-AI workflows can remain bounded, auditable, and structurally coherent across time.
 
 ---
 

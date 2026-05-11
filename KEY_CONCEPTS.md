@@ -70,6 +70,38 @@ Relational context does not imply AI personhood or consciousness. It refers to t
 
 ---
 
+## Mixed Concept Formation
+
+A condition in which concepts are formed through interaction between human structural intuition, AI-assisted verbalization, human acceptance or rejection, revision, external review, and later archival stabilization.
+
+AAS does not require every idea to be classified as purely human-originated or AI-originated throughout the workflow. Instead, it treats concept formation as a process whose roles, adoption path, evidence boundaries, and revision conditions should remain auditable.
+
+---
+
+## Governance of Formation
+
+The practice of keeping concept formation inspectable when human intent and AI assistance interact over time.
+
+Governance of formation focuses less on reconstructing hidden idea origins and more on documenting how a concept was proposed, tested, accepted, rejected, revised, stabilized, and bounded within the research workflow.
+
+---
+
+## AI as Structural Mirror
+
+A description of AI assistance as a reflective and organizing layer that can help externalize, refine, compare, and stabilize human structural intuition.
+
+In this usage, AI is not treated as an autonomous inventor, author, or responsible agent. The metaphor refers to the way AI assistance can make latent structure easier for the human researcher to inspect, revise, and govern.
+
+---
+
+## Human-Governed AI-Assisted Concept Formation
+
+A workflow condition in which AI systems assist with verbalization, structuring, comparison, and review, while final judgment, adoption, revision, authorship, and publication responsibility remain human-led.
+
+This concept preserves the usefulness of AI-assisted formation without moving responsibility away from the human researcher or turning AI assistance into an independent authority.
+
+---
+
 ## Bounded Archive Reconstruction
 
 A method for rebuilding project context from bounded, auditable records rather than relying on unstable memory or conversational momentum.

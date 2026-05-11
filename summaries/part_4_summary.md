@@ -16,6 +16,8 @@ The paper treats the case neither as myth nor as invalid anecdote.
 
 It treats it as a bounded process-analysis case.
 
+Part IV also frames long-horizon human-AI research as a mixed formation process: concepts may be shaped through interaction between human structural intuition and AI-assisted verbalization, while final judgment, adoption, revision, and publication responsibility remain human-led.
+
 ---
 
 ## Role in the Series
@@ -25,6 +27,8 @@ Part IV is the bounded-archive extension of the AAS series.
 It is related to the Core Trilogy, but it should not be read as merely a fourth installment.
 
 It extends the trilogy by applying its descriptive and boundary-setting logic to a single longitudinal case.
+
+It also helps clarify how AAS can examine human-AI concept formation without claiming that ideas are purely human-originated, purely AI-originated, or fully reconstructable from surviving records.
 
 ---
 
@@ -48,6 +52,20 @@ It does not claim statistical generalization.
 
 The paper attempts to describe a longitudinal human-AI interaction process while avoiding claims that cannot be supported by the archive.
 
+### Mixed Concept Formation
+
+Mixed concept formation refers to a process in which concepts are shaped through interaction between human structural intuition and AI-assisted verbalization, rather than remaining purely human-originated or purely AI-originated throughout the workflow.
+
+### Governance of Formation
+
+Governance of formation asks how a concept was selected, revised, bounded, recorded, and made publishable, and who retained responsibility for judgment, adoption, revision, and claims.
+
+### AI as Structural Mirror
+
+In this context, AI may function as a structural mirror, verbalization aid, and review aid.
+
+This does not make AI the author, inventor, responsible agent, or hidden source of agency.
+
 ---
 
 ## What This Paper Does
@@ -57,6 +75,8 @@ Part IV reconstructs observable patterns from a bounded archive.
 It examines how a sustained human-AI interaction can produce structured artifacts, role differentiation, and process continuity.
 
 It uses the AAS framework while preserving the limitations established in Part III.
+
+It also examines how human-led AI-assisted workflows may externalize, refine, and stabilize concepts over time while keeping authorship, responsibility, role boundaries, and revision conditions auditable.
 
 ---
 
@@ -69,6 +89,8 @@ It does not claim AI consciousness or agency.
 It does not claim that the case is statistically representative.
 
 It does not claim that all causal pathways can be reconstructed.
+
+It does not claim that the exact origin of every concept can be assigned cleanly to either the human or the AI system.
 
 It does not present the case as a mythic or exceptional proof of AI-human fusion.
 
@@ -83,6 +105,8 @@ Part II operationalizes AAS as a classifiable interaction state.
 Part III defines the limits of structural redescription.
 
 Part IV applies those limits to bounded-archive process analysis.
+
+Part IV also extends those limits into the question of mixed concept formation: when records are incomplete or formation is interactional, AAS should avoid overclaiming hidden origins and instead focus on whether formation governance remains auditable.
 
 ---
 

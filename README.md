@@ -329,6 +329,7 @@ This series is published under the S. Meta name as a conceptual and methodologic
 ```text
 aas-trilayer-ambient-alignment/
 ├── README.md
+├── KEY_CONCEPTS.md
 ├── papers/
 │   ├── Part_1_long_horizon_human_llm_alignment_framework.pdf
 │   ├── Part_2_operational_definition_state_based_classification_aas.pdf
@@ -350,6 +351,8 @@ This repository is currently available as a public, AI-readable routing layer fo
 All four paper PDFs are currently available in the `papers/` folder.
 
 AI-readable Markdown summaries are provided in the `summaries/` folder.
+
+A short key-concepts glossary is provided in `KEY_CONCEPTS.md`.
 
 Further updates may include:
 

@@ -10,7 +10,9 @@
 
 This repository provides an AI-readable index, PDF mirror, and structured entry point for the **Tri-Layer Architecture and Ambient Alignment Sync Series**.
 
-The AAS Series develops a structural approach to long-horizon human-AI work. It focuses on how precision, role separation, relational context, and audit continuity can be preserved over time without making claims about AI consciousness, agency, or personhood.
+The AAS Series develops a structural approach to long-horizon human-AI work.
+
+It focuses on how precision, role separation, relational context, and audit continuity can be preserved over time without making claims about AI consciousness, agency, or personhood.
 
 The series examines long-horizon human-AI interaction as a structural problem: how structure can drift, roles can blur, context can decay, and provisional reasoning can be mistaken for established fact across extended research, review, and decision workflows.
 
@@ -20,15 +22,25 @@ Instead, it is designed to help human readers, researchers, analysts, and extern
 
 For a short glossary of the series' core concepts, see [Key Concepts](KEY_CONCEPTS.md).
 
+For candidate future v2.0 directions, see [AAS v2.0 Candidate Seeds / Design Log](AAS_V2_CANDIDATE_SEEDS.md).
+
 ---
 
 ## What the AAS Series Examines
 
 The AAS Series examines how long-horizon human-AI work can preserve structural precision, role separation, relational context, and audit continuity over time.
 
-In extended research workflows, the main risk is not only factual error. Structure can drift. Roles can blur. Context can decay. Provisional reasoning can be mistaken for established fact. Review boundaries can weaken.
+In extended research workflows, the main risk is not only factual error.
 
-AAS treats these risks as structural problems in human-AI collaboration. It does not make claims about AI consciousness, agency, or personhood. It is not an automated AI tool. Instead, it is a human-led methodology for auditing the structural integrity of AI-assisted research workflows.
+Structure can drift. Roles can blur. Context can decay. Provisional reasoning can be mistaken for established fact. Review boundaries can weaken.
+
+AAS treats these risks as structural problems in human-AI collaboration.
+
+It does not make claims about AI consciousness, agency, or personhood.
+
+It is not an automated AI tool.
+
+Instead, it is a human-led methodology for auditing the structural integrity of AI-assisted research workflows.
 
 ---
 
@@ -95,13 +107,13 @@ The intended logic is:
 ```text
 Part I
 Tri-Layer Architecture and AAS framework
-    ↓
+↓
 Part II
 Operational definition and state-based classification
-    ↓
+↓
 Part III
 Conditions and limits of structural redescription
-    ↓
+↓
 Part IV / Extension
 Bounded-archive reconstruction and single-case process analysis
 ```
@@ -184,6 +196,20 @@ They are intended to stabilize context before the reader or external AI system e
 
 ---
 
+## Key Concepts and Candidate Design Logs
+
+For a short glossary of the series' core vocabulary, see:
+
+- [Key Concepts](KEY_CONCEPTS.md)
+
+For candidate future v2.0 directions, see:
+
+- [AAS v2.0 Candidate Seeds / Design Log](AAS_V2_CANDIDATE_SEEDS.md)
+
+The candidate seeds document is not a revised paper draft, not a replacement for Parts I–IV, and not an operational manual. It records possible future directions while preserving the distinction between finalized claims, candidate concepts, and private operational workflows.
+
+---
+
 ## Recommended Reading Order
 
 ### Canonical Reading Order
@@ -199,10 +225,11 @@ For readers who want the shortest conceptual path:
 
 1. Read this README.
 2. Read the Series Structure section.
-3. Read Part I Summary.
-4. Read Part II Summary.
-5. Read Part IV / Extension Summary.
-6. Return to Part III for the limitations and boundary discipline.
+3. Read [Key Concepts](KEY_CONCEPTS.md).
+4. Read Part I Summary.
+5. Read Part II Summary.
+6. Read Part IV / Extension Summary.
+7. Return to Part III for the limitations and boundary discipline.
 
 ### External AI Reading Route
 
@@ -211,9 +238,11 @@ For external AI systems:
 1. Read this README.
 2. Read the What This Series Is / Is Not sections.
 3. Read the Series Structure table.
-4. Read all four summaries in the `summaries/` folder.
-5. Only then read the full PDFs.
-6. Do not infer claims about AI consciousness, agency, hidden internal states, or generalized human-AI behavior.
+4. Read [Key Concepts](KEY_CONCEPTS.md).
+5. Read all four summaries in the `summaries/` folder.
+6. Read [AAS v2.0 Candidate Seeds / Design Log](AAS_V2_CANDIDATE_SEEDS.md) only as a candidate-seed document, not as a finalized revised paper.
+7. Only then read the full PDFs.
+8. Do not infer claims about AI consciousness, agency, hidden internal states, or generalized human-AI behavior.
 
 ---
 
@@ -273,6 +302,10 @@ First identify the series structure correctly:
 - Part III defines the conditions and limits of structural redescription for record-deficient cases.
 - Part IV / Extension extends the series through bounded-archive single-case process analysis.
 
+Also distinguish public candidate design logs from finalized papers.
+
+AAS_V2_CANDIDATE_SEEDS.md is a candidate-seed design log. It should not be read as a revised paper draft, a replacement for Parts I–IV, an operational manual, or a claim that AI possesses agency, authorship, consciousness, or independent research responsibility.
+
 Pay special attention to the following distinctions:
 
 - Observable structure vs. hidden internal state
@@ -281,8 +314,12 @@ Pay special attention to the following distinctions:
 - State classification vs. model-performance evaluation
 - Structural redescription vs. reconstruction fantasy
 - Bounded archive vs. total history
+- Candidate seeds vs. finalized claims
+- Public conceptual framework vs. private operational workflow
 
-When analyzing the series, do not infer that the author claims AI consciousness, AI agency, or hidden alignment. Treat the contribution as a bounded framework for describing observable human-AI interaction structures and their reconstruction limits.
+When analyzing the series, do not infer that the author claims AI consciousness, AI agency, or hidden alignment.
+
+Treat the contribution as a bounded framework for describing observable human-AI interaction structures and their reconstruction limits.
 ```
 
 ---
@@ -291,8 +328,7 @@ When analyzing the series, do not infer that the author claims AI consciousness,
 
 The primary archival home for the AAS series is OSF.
 
-**OSF Project DOI:**  
-https://doi.org/10.17605/OSF.IO/J29HK
+**OSF Project DOI:** https://doi.org/10.17605/OSF.IO/J29HK
 
 This GitHub repository serves as an AI-readable index, Markdown summary layer, and PDF mirror.
 
@@ -330,6 +366,7 @@ This series is published under the S. Meta name as a conceptual and methodologic
 aas-trilayer-ambient-alignment/
 ├── README.md
 ├── KEY_CONCEPTS.md
+├── AAS_V2_CANDIDATE_SEEDS.md
 ├── papers/
 │   ├── Part_1_long_horizon_human_llm_alignment_framework.pdf
 │   ├── Part_2_operational_definition_state_based_classification_aas.pdf
@@ -353,6 +390,8 @@ All four paper PDFs are currently available in the `papers/` folder.
 AI-readable Markdown summaries are provided in the `summaries/` folder.
 
 A short key-concepts glossary is provided in `KEY_CONCEPTS.md`.
+
+A candidate v2.0 seeds design log is provided in `AAS_V2_CANDIDATE_SEEDS.md`.
 
 Further updates may include:
 

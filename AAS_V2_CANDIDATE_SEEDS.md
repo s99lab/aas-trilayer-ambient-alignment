@@ -10,7 +10,7 @@ The purpose of this document is to collect emerging concepts that may inform fut
 
 The concepts listed here should be treated as candidate seeds, not as finalized claims.
 
-This document is a public research-orientation note. It does not provide instructions for reproducing the private workflow that generated the archive, and it should not be read as evidence that AI systems possess agency, authorship, consciousness, or independent research responsibility.
+This document is a public research-orientation note. It does not provide instructions for reproducing the private workflow that generated the archive, and it does not introduce or define any separate operational system as part of the AAS claims. It should not be read as evidence that AI systems possess agency, authorship, consciousness, or independent research responsibility.
 
 ---
 
@@ -66,7 +66,7 @@ This document is not:
 - a claim that AI independently invented the AAS framework
 - a productivity guide
 - an automated AI workflow
-- a disclosure of private Universal OS procedures
+- a disclosure of private operational procedures
 - a prompt library
 - an operational manual
 - a scoring system
@@ -396,11 +396,11 @@ candidate-seed version
 
 ---
 
-## Candidate Seed 5: Public/Private Boundary and Universal OS
+## Candidate Seed 5: Public/Private Boundary and Private Operational Layers
 
 ### Working Definition
 
-The Public/Private Boundary refers to the distinction between AAS as a public conceptual framework and Universal OS as a private operational methodology.
+The Public/Private Boundary refers to the distinction between AAS as a public conceptual framework and the private operational methods used to manage, coordinate, and protect long-horizon research workflows.
 
 AAS can publicly describe:
 
@@ -412,7 +412,7 @@ AAS can publicly describe:
 - mixed concept formation
 - governance of formation
 
-Universal OS remains a private operational layer.
+The underlying operational layer remains private.
 
 ### What May Be Public
 
@@ -430,22 +430,22 @@ Public AAS materials may include:
 
 ### What Should Remain Private
 
-Private Universal OS materials may include operational prompts, internal coordination protocols, memory and context-management procedures, scoring or evaluation logic, applied decision workflows, and implementation details that would make the process directly reproducible.
+Private operational materials may include prompts, internal coordination protocols, memory and context-management procedures, scoring or evaluation logic, applied decision workflows, and implementation details that would make the process directly reproducible.
 
 ### Why This Matters
 
 AAS can show the conceptual and methodological surface.
 
-Universal OS preserves the operational engine.
+The private operational layer preserves implementation details.
 
-This allows the archive to demonstrate that long-horizon human-AI research can be governed structurally without disclosing private procedures that make the workflow operationally reproducible.
+This allows the archive to demonstrate that long-horizon human-AI research can be governed structurally without disclosing procedures that would make the workflow directly reproducible.
 
 ### Boundary Principle
 
 ```text
 AAS may publish concepts, distinctions, summaries, and bounded case notes.
 
-Universal OS should not disclose private operational procedures, prompts, scoring systems, or implementation templates.
+Private operational procedures, prompts, scoring systems, and implementation templates should not be disclosed.
 ```
 
 ---
@@ -456,7 +456,7 @@ Universal OS should not disclose private operational procedures, prompts, scorin
 
 Applied Case Notes are possible future documents that show how AAS concepts apply to bounded, anonymized, or abstracted cases.
 
-They would not disclose private Universal OS procedures.
+They would not disclose private operational procedures.
 
 Instead, they would show how AAS concepts help describe or audit real human-AI workflow problems.
 
@@ -490,7 +490,7 @@ Applied Case Notes should:
 
 Applied Case Notes should not:
 
-- disclose Universal OS implementation details
+- disclose private operational implementation details
 - publish private prompts
 - expose sensitive workflow records
 - convert subjective formation history into unsupported external proof
@@ -523,7 +523,7 @@ These candidate seeds should be revised if:
 
 - they appear to overstate AI agency, consciousness, authorship, or personhood
 - they blur human authorship and AI assistance
-- they disclose too much about Universal OS
+- they disclose too much about private operational methods
 - they imply that candidate concepts are already finalized claims
 - they conflict with the published AAS papers
 - they create confusion between AAS and Retained-Demand
@@ -566,9 +566,9 @@ The main candidate directions are:
 - Mixed Concept Formation
 - Governance of Formation
 - Archive Versioning
-- Public/Private Boundary around Universal OS
+- Public/Private Boundary around private operational layers
 - Applied Case Notes
 
 These are candidate seeds, not final claims.
 
-They may guide future archive development while preserving human authorship, role separation, audit continuity, bounded claims, and the privacy of Universal OS operational procedures.
+They may guide future archive development while preserving human authorship, role separation, audit continuity, bounded claims, and the privacy of private operational procedures.

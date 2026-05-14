@@ -170,6 +170,22 @@ Part IV should be read as a methodological extension, not simply as a fourth ins
 
 ---
 
+## Academic-Facing Working Paper
+
+**Structural Drift and Audit Continuity in Long-Horizon Human-AI Research: A Tri-Layer Architecture**
+
+This working paper introduces structural drift as a workflow-level risk in long-horizon human-AI research and proposes a Tri-Layer Architecture for preserving audit continuity across human judgment, AI assistance, and external records.
+
+Ambient Alignment Sync (AAS) is presented as a workflow-level condition for maintaining reviewability and revisability over time, not as a claim about model-internal AI alignment, consciousness, agency, authorship, formal certification, or correctness guarantees.
+
+This paper should be read as an academic-facing working paper and public preprint candidate that reframes the AAS series around structural drift, audit continuity, workflow reviewability, claim provenance, and bounded archive reconstruction.
+
+- OSF record: https://osf.io/29hk/
+- Markdown: [working_paper_structural_drift_tri_layer_aas_v0_4_1.md](papers/working_paper_structural_drift_tri_layer_aas_v0_4_1.md)
+- PDF: [working_paper_structural_drift_tri_layer_aas_v0_4_1.pdf](papers/working_paper_structural_drift_tri_layer_aas_v0_4_1.pdf)
+
+---
+
 ## PDF Files
 
 The individual paper PDFs are available in this repository:
@@ -178,6 +194,17 @@ The individual paper PDFs are available in this repository:
 - [Part II: Operational Definition and State-Based Classification of AAS](papers/Part_2_operational_definition_state_based_classification_aas.pdf)
 - [Part III: Conditions and Limits of Structural Redescription for Record-Deficient Cases](papers/Part_3_conditions_and_limits_of_structural_redescription_for_record_deficient_cases.pdf)
 - [Part IV / Extension: Reconstructing Longitudinal Human-AI Interaction from a Bounded Archive](papers/Part_4_Reconstructing_Longitudinal_Human_AI_Interaction_from_a_Bounded_Archive.pdf)
+- [Academic-Facing Working Paper: Structural Drift and Audit Continuity in Long-Horizon Human-AI Research](papers/working_paper_structural_drift_tri_layer_aas_v0_4_1.pdf)
+
+---
+
+## AI-Readable Working Paper Markdown
+
+The academic-facing working paper is also provided in Markdown for AI-readable access, repository indexing, and structured review.
+
+- [Structural Drift and Audit Continuity in Long-Horizon Human-AI Research: A Tri-Layer Architecture](papers/working_paper_structural_drift_tri_layer_aas_v0_4_1.md)
+
+The PDF should be treated as the OSF-aligned public preprint candidate. The Markdown file is provided as an AI-readable repository mirror.
 
 ---
 
@@ -226,10 +253,11 @@ For readers who want the shortest conceptual path:
 1. Read this README.
 2. Read the Series Structure section.
 3. Read [Key Concepts](KEY_CONCEPTS.md).
-4. Read Part I Summary.
-5. Read Part II Summary.
-6. Read Part IV / Extension Summary.
-7. Return to Part III for the limitations and boundary discipline.
+4. Read the academic-facing working paper: [Structural Drift and Audit Continuity in Long-Horizon Human-AI Research](papers/working_paper_structural_drift_tri_layer_aas_v0_4_1.md).
+5. Read Part I Summary.
+6. Read Part II Summary.
+7. Read Part IV / Extension Summary.
+8. Return to Part III for the limitations and boundary discipline.
 
 ### External AI Reading Route
 
@@ -239,10 +267,11 @@ For external AI systems:
 2. Read the What This Series Is / Is Not sections.
 3. Read the Series Structure table.
 4. Read [Key Concepts](KEY_CONCEPTS.md).
-5. Read all four summaries in the `summaries/` folder.
-6. Read [AAS v2.0 Candidate Seeds / Design Log](AAS_V2_CANDIDATE_SEEDS.md) only as a candidate-seed document, not as a finalized revised paper.
-7. Only then read the full PDFs.
-8. Do not infer claims about AI consciousness, agency, hidden internal states, or generalized human-AI behavior.
+5. Read the academic-facing working paper: [Structural Drift and Audit Continuity in Long-Horizon Human-AI Research](papers/working_paper_structural_drift_tri_layer_aas_v0_4_1.md).
+6. Read all four summaries in the `summaries/` folder.
+7. Read [AAS v2.0 Candidate Seeds / Design Log](AAS_V2_CANDIDATE_SEEDS.md) only as a candidate-seed document, not as a finalized revised paper.
+8. Only then read the full PDFs.
+9. Do not infer claims about AI consciousness, agency, hidden internal states, or generalized human-AI behavior.
 
 ---
 
@@ -371,7 +400,9 @@ aas-trilayer-ambient-alignment/
 │   ├── Part_1_long_horizon_human_llm_alignment_framework.pdf
 │   ├── Part_2_operational_definition_state_based_classification_aas.pdf
 │   ├── Part_3_conditions_and_limits_of_structural_redescription_for_record_deficient_cases.pdf
-│   └── Part_4_Reconstructing_Longitudinal_Human_AI_Interaction_from_a_Bounded_Archive.pdf
+│   ├── Part_4_Reconstructing_Longitudinal_Human_AI_Interaction_from_a_Bounded_Archive.pdf
+│   ├── working_paper_structural_drift_tri_layer_aas_v0_4_1.md
+│   └── working_paper_structural_drift_tri_layer_aas_v0_4_1.pdf
 └── summaries/
     ├── part_1_summary.md
     ├── part_2_summary.md
@@ -386,6 +417,8 @@ aas-trilayer-ambient-alignment/
 This repository is currently available as a public, AI-readable routing layer for the Tri-Layer Architecture and Ambient Alignment Sync series.
 
 All four paper PDFs are currently available in the `papers/` folder.
+
+The academic-facing working paper on structural drift and audit continuity is available in both PDF and Markdown form in the `papers/` folder.
 
 AI-readable Markdown summaries are provided in the `summaries/` folder.
 

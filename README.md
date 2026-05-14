@@ -180,7 +180,7 @@ Ambient Alignment Sync (AAS) is presented as a workflow-level condition for main
 
 This paper should be read as an academic-facing working paper and public preprint candidate that reframes the AAS series around structural drift, audit continuity, workflow reviewability, claim provenance, and bounded archive reconstruction.
 
-- OSF record: https://doi.org/10.17605/OSF.IO/J29HK
+- OSF record: https://osf.io/29hk/
 - Markdown: [working_paper_structural_drift_tri_layer_aas_v0_4_1.md](papers/working_paper_structural_drift_tri_layer_aas_v0_4_1.md)
 - PDF: [working_paper_structural_drift_tri_layer_aas_v0_4_1.pdf](papers/working_paper_structural_drift_tri_layer_aas_v0_4_1.pdf)
 

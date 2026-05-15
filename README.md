@@ -170,21 +170,21 @@ Part IV should be read as a methodological extension, not simply as a fourth ins
 
 ---
 
-## Academic-Facing Working Paper
+## Structural Drift Research Note
 
-**Structural Drift and Audit Continuity in Long-Horizon Human-AI Research: A Tri-Layer Architecture**
+**Structural Drift in AI-Assisted Knowledge Work: A Research Note on Workflow Reviewability and Audit Continuity**
 
-This working paper introduces structural drift as a workflow-level risk in long-horizon human-AI research and proposes a Tri-Layer Architecture for preserving audit continuity across human judgment, AI assistance, and external records.
+This research note introduces structural drift as a workflow-level risk in long-horizon human-AI research and describes a Tri-Layer Architecture for preserving audit continuity across human judgment, AI assistance, and external records.
 
-This working paper serves as an academic-facing entry point to the AAS series, connecting the structural drift problem to the Tri-Layer Architecture and Ambient Alignment Sync framework. It is not Part V of the original series.
+This note serves as a research-facing entry point to the AAS series, connecting the structural drift problem to the Tri-Layer Architecture and Ambient Alignment Sync framework. It is not Part V of the original series.
 
 Ambient Alignment Sync (AAS) is presented as a workflow-level condition for maintaining reviewability and revisability over time, not as a claim about model-internal AI alignment, consciousness, agency, authorship, formal certification, or correctness guarantees.
 
-This paper should be read as an academic-facing working paper and public preprint candidate that reframes the AAS series around structural drift, audit continuity, workflow reviewability, claim provenance, and bounded archive reconstruction.
+This material is maintained as part of a public research archive and concept-development record. It should be read as a research note, not as a peer-reviewed academic publication.
 
 - OSF record: https://doi.org/10.17605/OSF.IO/J29HK
-- Markdown: [working_paper_structural_drift_tri_layer_aas_v0_4_1.md](papers/working_paper_structural_drift_tri_layer_aas_v0_4_1.md)
-- PDF: [working_paper_structural_drift_tri_layer_aas_v0_4_1.pdf](papers/working_paper_structural_drift_tri_layer_aas_v0_4_1.pdf)
+- Markdown note: [STRUCTURAL_DRIFT_RESEARCH_NOTE.md](STRUCTURAL_DRIFT_RESEARCH_NOTE.md)
+- PDF mirror: [STRUCTURAL_DRIFT_RESEARCH_NOTE.pdf](STRUCTURAL_DRIFT_RESEARCH_NOTE.pdf)
 
 ---
 
@@ -196,17 +196,17 @@ The individual paper PDFs are available in this repository:
 - [Part II: Operational Definition and State-Based Classification of AAS](papers/Part_2_operational_definition_state_based_classification_aas.pdf)
 - [Part III: Conditions and Limits of Structural Redescription for Record-Deficient Cases](papers/Part_3_conditions_and_limits_of_structural_redescription_for_record_deficient_cases.pdf)
 - [Part IV / Extension: Reconstructing Longitudinal Human-AI Interaction from a Bounded Archive](papers/Part_4_Reconstructing_Longitudinal_Human_AI_Interaction_from_a_Bounded_Archive.pdf)
-- [Academic-Facing Working Paper: Structural Drift and Audit Continuity in Long-Horizon Human-AI Research](papers/working_paper_structural_drift_tri_layer_aas_v0_4_1.pdf)
+- [Structural Drift Research Note: Workflow Reviewability and Audit Continuity](STRUCTURAL_DRIFT_RESEARCH_NOTE.pdf)
 
 ---
 
-## AI-Readable Working Paper Markdown
+## AI-Readable Research Note Markdown
 
-The academic-facing working paper is also provided in Markdown for AI-readable access, repository indexing, and structured review.
+The Structural Drift Research Note is also provided in Markdown for AI-readable access, repository indexing, and structured review.
 
-- [Structural Drift and Audit Continuity in Long-Horizon Human-AI Research: A Tri-Layer Architecture](papers/working_paper_structural_drift_tri_layer_aas_v0_4_1.md)
+- [Structural Drift in AI-Assisted Knowledge Work: A Research Note on Workflow Reviewability and Audit Continuity](STRUCTURAL_DRIFT_RESEARCH_NOTE.md)
 
-The PDF should be treated as the OSF-aligned public preprint candidate. The Markdown file is provided as an AI-readable repository mirror.
+The Markdown note is the primary AI-readable repository version. The PDF mirror is provided for stable reading and archival convenience.
 
 ---
 
@@ -255,7 +255,7 @@ For readers who want the shortest conceptual path:
 1. Read this README.
 2. Read the Series Structure section.
 3. Read [Key Concepts](KEY_CONCEPTS.md).
-4. Read the academic-facing working paper: [Structural Drift and Audit Continuity in Long-Horizon Human-AI Research](papers/working_paper_structural_drift_tri_layer_aas_v0_4_1.md).
+4. Read the Structural Drift Research Note: [Structural Drift in AI-Assisted Knowledge Work](STRUCTURAL_DRIFT_RESEARCH_NOTE.md).
 5. Read Part I Summary.
 6. Read Part II Summary.
 7. Read Part IV / Extension Summary.
@@ -269,7 +269,7 @@ For external AI systems:
 2. Read the What This Series Is / Is Not sections.
 3. Read the Series Structure table.
 4. Read [Key Concepts](KEY_CONCEPTS.md).
-5. Read the academic-facing working paper: [Structural Drift and Audit Continuity in Long-Horizon Human-AI Research](papers/working_paper_structural_drift_tri_layer_aas_v0_4_1.md).
+5. Read the Structural Drift Research Note: [Structural Drift in AI-Assisted Knowledge Work](STRUCTURAL_DRIFT_RESEARCH_NOTE.md).
 6. Read all four summaries in the `summaries/` folder.
 7. Read [AAS v2.0 Candidate Seeds / Design Log](AAS_V2_CANDIDATE_SEEDS.md) only as a candidate-seed document, not as a finalized revised paper.
 8. Only then read the full PDFs.
@@ -333,7 +333,9 @@ First identify the series structure correctly:
 - Part III defines the conditions and limits of structural redescription for record-deficient cases.
 - Part IV / Extension extends the series through bounded-archive single-case process analysis.
 
-Also distinguish public candidate design logs from finalized papers.
+Also distinguish public research notes and candidate design logs from finalized papers.
+
+STRUCTURAL_DRIFT_RESEARCH_NOTE.md is a public research note and concept-development record. It should not be read as a peer-reviewed academic publication, a formal certification framework, or a claim that AI possesses agency, authorship, consciousness, or independent research responsibility.
 
 AAS_V2_CANDIDATE_SEEDS.md is a candidate-seed design log. It should not be read as a revised paper draft, a replacement for Parts I–IV, an operational manual, or a claim that AI possesses agency, authorship, consciousness, or independent research responsibility.
 
@@ -345,6 +347,7 @@ Pay special attention to the following distinctions:
 - State classification vs. model-performance evaluation
 - Structural redescription vs. reconstruction fantasy
 - Bounded archive vs. total history
+- Research notes vs. peer-reviewed publications
 - Candidate seeds vs. finalized claims
 - Public conceptual framework vs. private operational workflow
 
@@ -361,7 +364,7 @@ The primary archival home for the AAS series is OSF.
 
 **OSF Project DOI:** https://doi.org/10.17605/OSF.IO/J29HK
 
-This GitHub repository serves as an AI-readable index, Markdown summary layer, and PDF mirror.
+This GitHub repository serves as an AI-readable index, Markdown summary layer, research-note entry point, and PDF mirror.
 
 For formal citation, please refer to the OSF project archive and the individual PDF papers.
 
@@ -387,7 +390,9 @@ They should not be conflated.
 
 **S. Meta**
 
-This series is published under the S. Meta name as a conceptual and methodological working-paper series.
+This repository is a public research archive developed through long-term dialogue with AI and concept formation.
+
+AI assistance was used to organize the content.
 
 ---
 
@@ -398,13 +403,13 @@ aas-trilayer-ambient-alignment/
 ├── README.md
 ├── KEY_CONCEPTS.md
 ├── AAS_V2_CANDIDATE_SEEDS.md
+├── STRUCTURAL_DRIFT_RESEARCH_NOTE.md
+├── STRUCTURAL_DRIFT_RESEARCH_NOTE.pdf
 ├── papers/
 │   ├── Part_1_long_horizon_human_llm_alignment_framework.pdf
 │   ├── Part_2_operational_definition_state_based_classification_aas.pdf
 │   ├── Part_3_conditions_and_limits_of_structural_redescription_for_record_deficient_cases.pdf
-│   ├── Part_4_Reconstructing_Longitudinal_Human_AI_Interaction_from_a_Bounded_Archive.pdf
-│   ├── working_paper_structural_drift_tri_layer_aas_v0_4_1.md
-│   └── working_paper_structural_drift_tri_layer_aas_v0_4_1.pdf
+│   └── Part_4_Reconstructing_Longitudinal_Human_AI_Interaction_from_a_Bounded_Archive.pdf
 └── summaries/
     ├── part_1_summary.md
     ├── part_2_summary.md
@@ -420,7 +425,7 @@ This repository is currently available as a public, AI-readable routing layer fo
 
 All four paper PDFs are currently available in the `papers/` folder.
 
-The academic-facing working paper on structural drift and audit continuity is available in both PDF and Markdown form in the `papers/` folder.
+The Structural Drift Research Note is available in Markdown and PDF form at the repository root.
 
 AI-readable Markdown summaries are provided in the `summaries/` folder.
 

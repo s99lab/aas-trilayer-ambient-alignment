@@ -4,7 +4,7 @@ S. Meta
 
 May 2026
 
-Version v1.0 / Public research note
+Initial public release / Public research note
 
 Conceptual framework / research note with illustrative vignette
 
@@ -16,7 +16,7 @@ Building on this architecture, the note introduces Ambient Alignment Sync (AAS) 
 
 It does not claim AI consciousness, agency, authorship, formal certification, or correctness guarantees. The contribution is a Tri-Layer Architecture and associated audit lens that make reviewability, revisability, and claim provenance first-class concerns in long-horizon human-AI research.
 
-**Keywords:** structural drift; human-AI collaboration; audit continuity; workflow reviewability; claim provenance; human-AI research workflows; AI accountability; distributed cognition; CSCW; provenance
+**Keywords:** structural drift; human-AI collaboration; audit continuity; workflow reviewability; claim provenance; human-AI research workflows; AI accountability; distributed cognition; provenance; collaborative research
 
 ## Note on Scope
 
@@ -332,6 +332,8 @@ Finally, the note framed AAS as a bounded structural audit lens. It reviews role
 The five failure modes identified here — context drift, role confusion, claim inflation, record loss, and revision failure — may also serve as practical warning signs for researchers using AI across extended projects. The central shift is therefore from output usefulness to workflow integrity. In long-horizon human-AI research, the question is not only whether an AI-generated answer is helpful today. It is whether the collaborative process will still be understandable, accountable, and revisable tomorrow.
 
 ## Related Literature and Adjacent Concepts
+
+The following works are included as related literature and adjacent concepts for contextual orientation. This section is not intended as an exhaustive scholarly literature review.
 
 Amershi, S., Weld, D., Vorvoreanu, M., Fourney, A., Nushi, B., Collisson, P., Suh, J., Iqbal, S., Bennett, P. N., Inkpen, K., Teevan, J., Kikin-Gil, R., & Horvitz, E. (2019). Guidelines for human-AI interaction. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1–13). Association for Computing Machinery. https://doi.org/10.1145/3290605.3300233
 

@@ -199,8 +199,7 @@ This note serves as a research-facing entry point to the AAS series, connecting 
 
 Ambient Alignment Sync (AAS) is presented as a workflow-level condition for maintaining reviewability and revisability over time, not as a claim about model-internal AI alignment, consciousness, agency, authorship, formal certification, or correctness guarantees.
 
-This material is maintained as part of a public research archive and concept-development record. It should be read as a research note, not as a peer-reviewed academic publication.
-
+This material is maintained as part of a public research archive and concept-development record. It should be read as a public research note and entry point to the AAS Series, not as a finalized paper, formal certification framework, or operational manual.
 - OSF record: https://doi.org/10.17605/OSF.IO/J29HK
 - Markdown note: [STRUCTURAL_DRIFT_RESEARCH_NOTE.md](STRUCTURAL_DRIFT_RESEARCH_NOTE.md)
 - PDF mirror: [STRUCTURAL_DRIFT_RESEARCH_NOTE.pdf](STRUCTURAL_DRIFT_RESEARCH_NOTE.pdf)

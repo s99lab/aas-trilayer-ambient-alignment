@@ -237,6 +237,7 @@ Markdown summaries are provided for AI systems, researchers, and readers who nee
 - [Part II Summary](summaries/part_2_summary.md)
 - [Part III Summary](summaries/part_3_summary.md)
 - [Part IV / Extension Summary](summaries/part_4_summary.md)
+- [Structural Drift Research Note Summary](summaries/structural_drift_research_note_summary.md)
 
 The summaries are not substitutes for the full papers.
 
@@ -433,7 +434,8 @@ aas-trilayer-ambient-alignment/
     ├── part_1_summary.md
     ├── part_2_summary.md
     ├── part_3_summary.md
-    └── part_4_summary.md
+    ├── part_4_summary.md
+    └── structural_drift_research_note_summary.md
 ```
 
 ---

@@ -193,13 +193,14 @@ Part IV should be read as a methodological extension, not simply as a fourth ins
 
 **Structural Drift in AI-Assisted Knowledge Work: A Research Note on Workflow Reviewability and Audit Continuity**
 
-This research note introduces structural drift as a workflow-level risk in long-horizon human-AI research and describes a Tri-Layer Architecture for preserving audit continuity across human judgment, AI assistance, and external records.
+This research note introduces structural drift as a workflow-level failure mode in long-horizon human-AI research and describes a Tri-Layer Architecture for preserving audit continuity across human judgment, AI assistance, and external records.
 
 This note serves as a research-facing entry point to the AAS series, connecting the structural drift problem to the Tri-Layer Architecture and Ambient Alignment Sync framework. It is not Part V of the original series.
 
 Ambient Alignment Sync (AAS) is presented as a workflow-level condition for maintaining reviewability and revisability over time, not as a claim about model-internal AI alignment, consciousness, agency, authorship, formal certification, or correctness guarantees.
 
 This material is maintained as part of a public research archive and concept-development record. It should be read as a public research note and entry point to the AAS Series, not as a finalized paper, formal certification framework, or operational manual.
+
 - OSF record: https://doi.org/10.17605/OSF.IO/J29HK
 - Markdown note: [STRUCTURAL_DRIFT_RESEARCH_NOTE.md](STRUCTURAL_DRIFT_RESEARCH_NOTE.md)
 - PDF mirror: [STRUCTURAL_DRIFT_RESEARCH_NOTE.pdf](STRUCTURAL_DRIFT_RESEARCH_NOTE.pdf)

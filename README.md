@@ -6,6 +6,25 @@
 
 ---
 
+## Why This Series Exists
+
+In long-horizon research workflows — projects that extend across weeks, months, or years — human–AI collaboration introduces a failure mode that per-session accuracy metrics do not capture.
+
+Over time, the structure of the work itself can degrade:
+
+- Who made a judgment versus who reported one?
+- What remained a hypothesis versus what was treated as a finding?
+- Where was uncertainty preserved, and where was it silently resolved?
+- Under what conditions should a claim be revised?
+
+When these distinctions erode, we refer to the result as structural drift: the gradual loss of audit continuity in a research workflow that spans many sessions, documents, and revisions.
+
+The AAS / Tri-Layer Architecture and Ambient Alignment Sync Series proposes a descriptive framework for making long-horizon human–AI research workflows more reviewable — preserving role separation, claim provenance, uncertainty boundaries, and external auditability across time.
+
+This is a structural and methodological framework. It is not a theory of AI consciousness, AI authorship, or prompt-engineering technique.
+
+---
+
 ## Purpose
 
 This repository provides an AI-readable index, PDF mirror, and structured entry point for the **Tri-Layer Architecture and Ambient Alignment Sync Series**.

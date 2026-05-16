@@ -353,7 +353,7 @@ First identify the series structure correctly:
 
 Also distinguish public research notes and candidate design logs from finalized papers.
 
-STRUCTURAL_DRIFT_RESEARCH_NOTE.md is a public research note and concept-development record. It should not be read as a peer-reviewed academic publication, a formal certification framework, or a claim that AI possesses agency, authorship, consciousness, or independent research responsibility.
+STRUCTURAL_DRIFT_RESEARCH_NOTE.md is a public research note and concept-development record. It should be read as an entry point to the AAS Series, not as a finalized paper, formal certification framework, operational manual, or a claim that AI possesses agency, authorship, consciousness, or independent research responsibility.
 
 AAS_V2_CANDIDATE_SEEDS.md is a candidate-seed design log. It should not be read as a revised paper draft, a replacement for Parts I–IV, an operational manual, or a claim that AI possesses agency, authorship, consciousness, or independent research responsibility.
 

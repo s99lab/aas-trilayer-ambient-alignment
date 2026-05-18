@@ -52,6 +52,10 @@ The gradual loss, mixing, or distortion of research assumptions, roles, evidence
 
 Structural drift can occur when provisional reasoning is mistaken for established fact, when AI-generated framing becomes too authoritative, when prior scope boundaries are forgotten, or when external records are no longer clearly separated from interpretation.
 
+Related checklist:
+
+- [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md)
+
 ---
 
 ## Role Separation

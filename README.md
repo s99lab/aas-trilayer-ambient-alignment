@@ -41,6 +41,8 @@ Instead, it is designed to help human readers, researchers, analysts, and extern
 
 For a short glossary of the series' core concepts, see [Key Concepts](KEY_CONCEPTS.md).
 
+For a practical audit checklist, see [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md).
+
 For candidate future v2.0 directions, see [AAS v2.0 Candidate Seeds / Design Log](AAS_V2_CANDIDATE_SEEDS.md).
 
 ---
@@ -204,6 +206,7 @@ This material is maintained as part of a public research archive and concept-dev
 - OSF record: https://doi.org/10.17605/OSF.IO/J29HK
 - Markdown note: [STRUCTURAL_DRIFT_RESEARCH_NOTE.md](STRUCTURAL_DRIFT_RESEARCH_NOTE.md)
 - PDF mirror: [STRUCTURAL_DRIFT_RESEARCH_NOTE.pdf](STRUCTURAL_DRIFT_RESEARCH_NOTE.pdf)
+- Practical checklist: [STRUCTURAL_DRIFT_CHECKLIST.md](STRUCTURAL_DRIFT_CHECKLIST.md)
 
 ---
 
@@ -255,6 +258,10 @@ For candidate future v2.0 directions, see:
 
 - [AAS v2.0 Candidate Seeds / Design Log](AAS_V2_CANDIDATE_SEEDS.md)
 
+For a practical checklist for auditing structural drift in long-horizon human-AI workflows, see:
+
+- [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md)
+
 The candidate seeds document is not a revised paper draft, not a replacement for Parts I–IV, and not an operational manual. It records possible future directions while preserving the distinction between finalized claims, candidate concepts, and private operational workflows.
 
 ---
@@ -276,10 +283,11 @@ For readers who want the shortest conceptual path:
 2. Read the Series Structure section.
 3. Read [Key Concepts](KEY_CONCEPTS.md).
 4. Read the Structural Drift Research Note: [Structural Drift in AI-Assisted Knowledge Work](STRUCTURAL_DRIFT_RESEARCH_NOTE.md).
-5. Read Part I Summary.
-6. Read Part II Summary.
-7. Read Part IV / Extension Summary.
-8. Return to Part III for the limitations and boundary discipline.
+5. Review the [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md).
+6. Read Part I Summary.
+7. Read Part II Summary.
+8. Read Part IV / Extension Summary.
+9. Return to Part III for the limitations and boundary discipline.
 
 ### External AI Reading Route
 
@@ -290,10 +298,11 @@ For external AI systems:
 3. Read the Series Structure table.
 4. Read [Key Concepts](KEY_CONCEPTS.md).
 5. Read the Structural Drift Research Note: [Structural Drift in AI-Assisted Knowledge Work](STRUCTURAL_DRIFT_RESEARCH_NOTE.md).
-6. Read all four summaries in the `summaries/` folder.
-7. Read [AAS v2.0 Candidate Seeds / Design Log](AAS_V2_CANDIDATE_SEEDS.md) only as a candidate-seed document, not as a finalized revised paper.
-8. Only then read the full PDFs.
-9. Do not infer claims about AI consciousness, agency, hidden internal states, or generalized human-AI behavior.
+6. Review the [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md).
+7. Read all four summaries in the `summaries/` folder.
+8. Read [AAS v2.0 Candidate Seeds / Design Log](AAS_V2_CANDIDATE_SEEDS.md) only as a candidate-seed document, not as a finalized revised paper.
+9. Only then read the full PDFs.
+10. Do not infer claims about AI consciousness, agency, hidden internal states, or generalized human-AI behavior.
 
 ---
 
@@ -425,6 +434,7 @@ aas-trilayer-ambient-alignment/
 ├── AAS_V2_CANDIDATE_SEEDS.md
 ├── STRUCTURAL_DRIFT_RESEARCH_NOTE.md
 ├── STRUCTURAL_DRIFT_RESEARCH_NOTE.pdf
+├── STRUCTURAL_DRIFT_CHECKLIST.md
 ├── papers/
 │   ├── Part_1_long_horizon_human_llm_alignment_framework.pdf
 │   ├── Part_2_operational_definition_state_based_classification_aas.pdf
@@ -447,6 +457,8 @@ This repository is currently available as a public, AI-readable routing layer fo
 All four paper PDFs are currently available in the `papers/` folder.
 
 The Structural Drift Research Note is available in Markdown and PDF form at the repository root.
+
+The Structural Drift Checklist is available at the repository root.
 
 AI-readable Markdown summaries are provided in the `summaries/` folder.
 

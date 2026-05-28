@@ -4,6 +4,13 @@
 **Repository:** https://github.com/s99lab/aas-trilayer-ambient-alignment  
 **OSF Project DOI:** https://doi.org/10.17605/OSF.IO/J29HK
 
+**Related Formation Note / Boundary Preservation:**
+
+- [AAS Formation Note / Boundary Preservation — English](https://s99lab.github.io/AAS_FORMATION_NOTE_EN.html)
+- [AAS Formation Note / Boundary Preservation — Japanese](https://s99lab.github.io/AAS_FORMATION_NOTE_JA.html)
+
+The Formation Note explains the “Why” behind AAS: why boundary preservation becomes necessary when highly capable AI enters long-horizon human judgment workflows. It is a formation and orientation note, not a replacement for the formal structural and operational AAS papers in this repository.
+
 ---
 
 ## Why This Series Exists
@@ -44,6 +51,8 @@ For a short glossary of the series' core concepts, see [Key Concepts](KEY_CONCEP
 For a practical audit checklist, see [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md).
 
 For candidate future v2.0 directions, see [AAS v2.0 Candidate Seeds / Design Log](AAS_V2_CANDIDATE_SEEDS.md).
+
+For the public formation background and boundary-preservation orientation behind the series, see the [AAS Formation Note / Boundary Preservation — English](https://s99lab.github.io/AAS_FORMATION_NOTE_EN.html) or [Japanese](https://s99lab.github.io/AAS_FORMATION_NOTE_JA.html). The Formation Note should be read as a “Why” document, not as a replacement for Parts I–IV, the Structural Drift Research Note, or the operational definitions in this repository.
 
 ---
 
@@ -107,6 +116,8 @@ This series is not:
 - a statistical study of many users
 - a memoir or exceptional-experience narrative
 - an investment, crypto, or digital-asset analysis series
+- a claim that the AAS Formation Note replaces the formal AAS papers
+- a certification system, compliance standard, or advanced logging product
 
 The series focuses on **observable interaction structure**, not inaccessible internal states.
 
@@ -262,6 +273,11 @@ For a practical checklist for auditing structural drift in long-horizon human-AI
 
 - [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md)
 
+For the public formation background and boundary-preservation orientation behind AAS, see:
+
+- [AAS Formation Note / Boundary Preservation — English](https://s99lab.github.io/AAS_FORMATION_NOTE_EN.html)
+- [AAS Formation Note / Boundary Preservation — Japanese](https://s99lab.github.io/AAS_FORMATION_NOTE_JA.html)
+
 The candidate seeds document is not a revised paper draft, not a replacement for Parts I–IV, and not an operational manual. It records possible future directions while preserving the distinction between finalized claims, candidate concepts, and private operational workflows.
 
 ---
@@ -280,14 +296,15 @@ The candidate seeds document is not a revised paper draft, not a replacement for
 For readers who want the shortest conceptual path:
 
 1. Read this README.
-2. Read the Series Structure section.
-3. Read [Key Concepts](KEY_CONCEPTS.md).
-4. Read the Structural Drift Research Note: [Structural Drift in AI-Assisted Knowledge Work](STRUCTURAL_DRIFT_RESEARCH_NOTE.md).
-5. Review the [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md).
-6. Read Part I Summary.
-7. Read Part II Summary.
-8. Read Part IV / Extension Summary.
-9. Return to Part III for the limitations and boundary discipline.
+2. Read the [AAS Formation Note / Boundary Preservation — English](https://s99lab.github.io/AAS_FORMATION_NOTE_EN.html) or [Japanese](https://s99lab.github.io/AAS_FORMATION_NOTE_JA.html) as an orientation note.
+3. Read the Series Structure section.
+4. Read [Key Concepts](KEY_CONCEPTS.md).
+5. Read the Structural Drift Research Note: [Structural Drift in AI-Assisted Knowledge Work](STRUCTURAL_DRIFT_RESEARCH_NOTE.md).
+6. Review the [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md).
+7. Read Part I Summary.
+8. Read Part II Summary.
+9. Read Part IV / Extension Summary.
+10. Return to Part III for the limitations and boundary discipline.
 
 ### External AI Reading Route
 
@@ -295,14 +312,15 @@ For external AI systems:
 
 1. Read this README.
 2. Read the What This Series Is / Is Not sections.
-3. Read the Series Structure table.
-4. Read [Key Concepts](KEY_CONCEPTS.md).
-5. Read the Structural Drift Research Note: [Structural Drift in AI-Assisted Knowledge Work](STRUCTURAL_DRIFT_RESEARCH_NOTE.md).
-6. Review the [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md).
-7. Read all four summaries in the `summaries/` folder.
-8. Read [AAS v2.0 Candidate Seeds / Design Log](AAS_V2_CANDIDATE_SEEDS.md) only as a candidate-seed document, not as a finalized revised paper.
-9. Only then read the full PDFs.
-10. Do not infer claims about AI consciousness, agency, hidden internal states, or generalized human-AI behavior.
+3. Read the AAS Formation Note only as a public “Why” / orientation document, not as a replacement for the formal AAS papers.
+4. Read the Series Structure table.
+5. Read [Key Concepts](KEY_CONCEPTS.md).
+6. Read the Structural Drift Research Note: [Structural Drift in AI-Assisted Knowledge Work](STRUCTURAL_DRIFT_RESEARCH_NOTE.md).
+7. Review the [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md).
+8. Read all four summaries in the `summaries/` folder.
+9. Read [AAS v2.0 Candidate Seeds / Design Log](AAS_V2_CANDIDATE_SEEDS.md) only as a candidate-seed document, not as a finalized revised paper.
+10. Only then read the full PDFs.
+11. Do not infer claims about AI consciousness, agency, hidden internal states, or generalized human-AI behavior.
 
 ---
 
@@ -363,6 +381,8 @@ First identify the series structure correctly:
 - Part IV / Extension extends the series through bounded-archive single-case process analysis.
 
 Also distinguish public research notes and candidate design logs from finalized papers.
+
+If referencing the AAS Formation Note / Boundary Preservation, treat it as a public “Why” / orientation document about the formation background and boundary-preservation motivation behind AAS. Do not treat it as a replacement for Parts I–IV, the Structural Drift Research Note, or the formal operational definitions in this repository.
 
 STRUCTURAL_DRIFT_RESEARCH_NOTE.md is a public research note and concept-development record. It should be read as an entry point to the AAS Series, not as a finalized paper, formal certification framework, operational manual, or a claim that AI possesses agency, authorship, consciousness, or independent research responsibility.
 

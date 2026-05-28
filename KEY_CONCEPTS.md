@@ -4,6 +4,13 @@ This document defines the core concepts used in the Tri-Layer Architecture and A
 
 The AAS Series studies long-horizon human-AI research workflows as structural and methodological problems. It does not make claims about AI consciousness, agency, personhood, or hidden internal alignment. It is not an automated AI tool.
 
+Related orientation note:
+
+- [AAS Formation Note / Boundary Preservation — English](https://s99lab.github.io/AAS_FORMATION_NOTE_EN.html)
+- [AAS Formation Note / Boundary Preservation — Japanese](https://s99lab.github.io/AAS_FORMATION_NOTE_JA.html)
+
+The Formation Note explains the “Why” and formation background behind AAS. It does not replace the formal AAS papers, structural definitions, operational distinctions, or bounded-archive materials in this repository.
+
 ---
 
 ## Tri-Layer Architecture
@@ -43,6 +50,29 @@ External AI review can be useful, but it remains bounded by the researcher's sco
 A methodological concept for preserving role discipline, context boundaries, and structural coherence across extended human-AI research workflows.
 
 Ambient Alignment Sync does not refer to hidden AI consciousness, internal AI alignment, or automated synchronization. It refers to the visible maintenance of structure across sessions, tools, records, and revisions.
+
+---
+
+## AAS Formation Note
+
+A related public orientation note that explains the formation background and “Why” behind AAS, especially why boundary preservation becomes necessary when highly capable AI enters long-horizon human judgment workflows.
+
+The AAS Formation Note should be read as a formation and orientation note. It does not replace Part I, Part II, Part III, the Part IV / Bounded Archive extension, the Structural Drift Research Note, or the operational distinctions defined in this repository.
+
+Related pages:
+
+- [AAS Formation Note / Boundary Preservation — English](https://s99lab.github.io/AAS_FORMATION_NOTE_EN.html)
+- [AAS Formation Note / Boundary Preservation — Japanese](https://s99lab.github.io/AAS_FORMATION_NOTE_JA.html)
+
+---
+
+## Boundary Preservation
+
+A design principle for keeping human judgment, AI assistance, external records, and revision conditions distinguishable over time.
+
+Boundary preservation does not mean rejecting AI assistance. It means using AI deeply while preventing the human decision point, AI-generated support, external evidence, and later revision conditions from collapsing into one blurred workflow.
+
+Boundary preservation is not a claim about AI consciousness, agency, authorship, certification, or institutional authority.
 
 ---
 
@@ -163,6 +193,8 @@ These concepts should not be read as:
 - claims about hidden internal AI alignment;
 - a proposal for an automated AI product;
 - a replacement for human authorship or judgment;
+- a claim that the AAS Formation Note replaces the formal AAS papers or structural definitions;
+- a claim that boundary preservation is a certification system, compliance standard, or automated logging product;
 - a complete operational manual for Universal OS;
 - a disclosure of private workflow protocols, prompts, scoring logic, or decision templates.
 

@@ -11,6 +11,10 @@
 
 The Formation Note explains the “Why” behind AAS: why boundary preservation becomes necessary when highly capable AI enters long-horizon human judgment workflows. It is a formation and orientation note, not a replacement for the formal structural and operational AAS papers in this repository.
 
+**OSF Public Concept Notes archive:** https://osf.io/5jcrk/
+
+The formal AAS Series remains archived under the AAS OSF project DOI. The Formation Note is additionally preserved in the Public Concept Notes OSF component as a public orientation and timestamping layer.
+
 ---
 
 ## Why This Series Exists
